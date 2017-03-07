@@ -1,3 +1,4 @@
 name: Denick Loves Games
 markdown: kramdown
 permalink: /my-blog/:year/:month/:day/:title
+permalink: /my-blog/:title
