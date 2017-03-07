@@ -6,9 +6,9 @@ layout: feed
 
 	<title>My Blog</title>
 	<link href="http://denickespares.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://denickespares.github.io/my-blog"/>
+	<link href="http://denickespares.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://denickespares.github.io/my-blog</id>
+	<id>http://denickespares.github.io/blog</id>
 	<author>
 		<name>Denick Espares</name>
 		<email>deespares@gmail.com</email>
