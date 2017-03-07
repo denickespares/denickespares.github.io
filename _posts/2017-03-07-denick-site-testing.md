@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Denick's Site Testing"
 date: 2017-03-07
 ---
