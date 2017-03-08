@@ -1,5 +1,7 @@
 body {
-	background-image: url("images/test.jpg");
+	background-image: url("/images/test.jpg");
+	background-position: center;
+	background-attachment: scroll;
     margin: 60px auto;
     width: 70%;
 }
